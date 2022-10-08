@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Manuela</h1>
 <h3 align="center">A curious backend developer with a background in molecular biology.</h3>
 
@@ -18,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/4521manuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4521manuela" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/meg14-42-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="meg14-42-0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
