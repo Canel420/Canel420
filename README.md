@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **cool stuffs!**
 
-- 🌱 I’m currently learning **React & NodeJs**
+- 🌱 I’m currently learning ** AWS cloud services **
 
 - 🤝 I’m looking for help with **Anything that will power my backend skills**
 
