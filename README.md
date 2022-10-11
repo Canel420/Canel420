@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **redbeard.1426@gmail.com**
 
-- ⚡ Fun fact **If I like it, I will learn it fast!**
+- ⚡ Fun fact: **If I like it, I will learn it fast!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
