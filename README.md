@@ -6,10 +6,10 @@
 ### <div align="center">I am a curious backend developer with a background in molecular biology 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on a Django mobile app.  
+- 🔭 I’m currently working on a NodeJs app.  
   
 
-- 🌱 I’m currently learning Django and React Native.  
+- 🌱 I’m currently learning NodeJs and TensorFlow.js.  
   
 
 - ❓ Ask me about anything related to **Python / C / JavaScript / Docker**  
