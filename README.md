@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a NodeJs app.  
   
 
-- 🌱 I’m currently learning NodeJs and TensorFlow.js.  
+- 🌱 I’m currently learning NodeJs and Next.js.  
   
 
 - ❓ Ask me about anything related to **Python / C / JavaScript / Docker**  
